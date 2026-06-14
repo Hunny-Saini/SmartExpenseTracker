@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend",
+  "description": "A smart expense tracker built with Jetpack Compose & Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

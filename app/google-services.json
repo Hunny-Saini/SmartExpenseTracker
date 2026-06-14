@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399917691666",
+    "project_id": "smartspend-android-app",
+    "storage_bucket": "smartspend-android-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399917691666:android:7a2620920dcac3c81ff9cb",
+        "android_client_info": {
+          "package_name": "com.example.ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNSdhqRlmtaBeBYDZTXbTqqx-uvwccbVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
